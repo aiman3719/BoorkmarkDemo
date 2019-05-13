@@ -5462,3 +5462,9 @@ venv/Lib/site-packages/django/conf/locale/es_CO/formats.py
 venv/Lib/site-packages/django/conf/locale/es_CO/__init__.py
 venv/Lib/site-packages/django/conf/locale/es_CO/LC_MESSAGES/django.po
 venv/Lib/site-packages/django/conf/locale/es_CO/LC_MESSAGES/django.mo
+config/__pycache__/urls.cpython-35.pyc
+config/__pycache__/__init__.cpython-35.pyc
+config/__pycache__/settings.cpython-35.pyc
+config/__pycache__/wsgi.cpython-35.pyc
+db.sqlite3
+.idea/workspace.xml

@@ -5479,3 +5479,4 @@ polls/migrations/__pycache__/0002_auto_20190514_2330.cpython-35.pyc
 polls/migrations/0001_initial.py
 polls/migrations/0002_auto_20190514_2330.py
 polls/migrations/__pycache__/__init__.cpython-35.pyc
+polls/__pycache__/tests.cpython-35.pyc

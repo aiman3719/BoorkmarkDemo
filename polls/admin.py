@@ -16,6 +16,8 @@ class QuestionAdmin(admin.ModelAdmin):
     inlines = [ChoiceInline]
 
     list_display = ('question_text', 'pub_date', 'was_published_recently') # method field도 출력할 수 있다.
+    list_filter = ['pub_date']
+    search_fields = ['question_text']
 
 admin.site.register(Question, QuestionAdmin)
 # admin.site.register(Choice, ChoiceInline)   # Inline타입은 별도로 Question처럼 임포터할 수 없다.

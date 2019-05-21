@@ -5480,3 +5480,10 @@ polls/migrations/0001_initial.py
 polls/migrations/0002_auto_20190514_2330.py
 polls/migrations/__pycache__/__init__.cpython-35.pyc
 polls/__pycache__/tests.cpython-35.pyc
+bookmark/__pycache__/views.cpython-35.pyc
+bookmark/__pycache__/models.cpython-35.pyc
+bookmark/__pycache__/admin.cpython-35.pyc
+bookmark/__pycache__/urls.cpython-35.pyc
+bookmark/__pycache__/__init__.cpython-35.pyc
+bookmark/migrations/__pycache__/0001_initial.cpython-35.pyc
+bookmark/migrations/__pycache__/__init__.cpython-35.pyc

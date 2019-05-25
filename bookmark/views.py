@@ -10,6 +10,7 @@ from bookmark.models import Bookmark
 class BookmarkListView(ListView):
     # template_name = 'bookmark/bookmark_list.html'
     model = Bookmark
+    paginate_by = 6  # 페이네이션 기능추가.
 
 
 

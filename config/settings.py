@@ -122,6 +122,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+# 배포할 때는 StaticHandler를 사용하지 않고 STATIC_ROOT를 정의하여 사용한다.
 STATIC_ROOT = os.path.join(BASE_DIR, 'static_files')
 #
 STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]
